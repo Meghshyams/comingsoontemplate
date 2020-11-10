@@ -1,4 +1,4 @@
-# comingsoontemplate
+# coming-soon-template 
 Elegant coming soon landing template using SASS and HTML 
 
 
