@@ -1,5 +1,5 @@
 # coming-soon-template 
-### Elegant coming soon responsive landing template using SASS and HTML 
+#### Elegant coming soon responsive landing template using SASS and HTML 
 
 
 
