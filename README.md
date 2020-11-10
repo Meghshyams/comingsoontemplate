@@ -27,7 +27,7 @@
 - SASS/SCSS 
 - HTML 
 
-Illustrations Source: <a href="https://undraw.co/illustrations" > https://undraw.co/illustrations </a>
+illustrations Source: <a href="https://undraw.co/illustrations" > https://undraw.co/illustrations </a>
 
 Contribute ? Pull a Request! 
 
