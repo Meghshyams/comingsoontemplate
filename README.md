@@ -7,10 +7,10 @@
 
 > Resposive and mobile ready 
 
-<p align="center"> <b> * Browser view for Desktop </p> </b>
+<p align="center"> <b> * Browser view for Desktop * </p> </b>
 
 <p align="center">
-  <img width="300" height="160" src="https://www.meghshyam.com/photos/coming_desktop.png">
+  <img width="600" height="300" src="https://www.meghshyam.com/photos/coming_desktop.png">
 </p> 
 
 - When you click on facebook icon after installing this extension on your chrome browser, it will automatically redirect to JobsLIV facebook page and same for others icon. 
