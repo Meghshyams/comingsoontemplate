@@ -7,7 +7,7 @@
 
 > Resposive and mobile ready 
 
-<p align="center"> <b> * Browser view for Desktop * </p> </b>
+<p align="center"> <b>  Browser view for Desktop  </p> </b>
 
 <p align="center">
   <img width="600" height="300" src="https://www.meghshyam.com/photos/coming_desktop.png">
