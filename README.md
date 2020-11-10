@@ -1,8 +1,7 @@
 # coming-soon-template 
-Elegant coming soon landing template using SASS and HTML 
+## Elegant coming soon responsive landing template using SASS and HTML 
 
 
-# The Chrome Browser Extension for Website 
 
 > Can navigate to your website easily
 
