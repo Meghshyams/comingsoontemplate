@@ -7,15 +7,10 @@
 
 > Resposive and mobile ready 
 
-
-- This app going to allow the users of websites to easily navigate to the website
-- This app is also going to show the buttons for social link through which users of your websites can easily navigate there
-
-
-<p align="center"> <b> *JobsLIV Extension at Google Chrome*</p> </b>
+<p align="center"> <b> * Browser view for Desktop </p> </b>
 
 <p align="center">
-  <img width="300" height="160" src="https://www.meghshyam.com/photos/CHROMEEXTENSTION.png">
+  <img width="300" height="160" src="https://www.meghshyam.com/photos/coming_desktop.png">
 </p> 
 
 - When you click on facebook icon after installing this extension on your chrome browser, it will automatically redirect to JobsLIV facebook page and same for others icon. 
