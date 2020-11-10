@@ -14,10 +14,10 @@
 </p> 
 
 
-<p align="center"> <b>  Mobile view for Desktop  </p> </b>
+<p align="center"> <b>  Browser view for Mobile  </p> </b>
 
 <p align="center">
-  <img width="800" height="400" src="https://www.meghshyam.com/photos/coming_mobile.png">
+  <img width="500" height="400" src="https://www.meghshyam.com/photos/coming_mobile.png">
 </p> 
 
 
