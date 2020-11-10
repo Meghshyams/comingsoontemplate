@@ -13,7 +13,13 @@
   <img width="800" height="400" src="https://www.meghshyam.com/photos/coming_desktop.png">
 </p> 
 
-- When you click on facebook icon after installing this extension on your chrome browser, it will automatically redirect to JobsLIV facebook page and same for others icon. 
+
+<p align="center"> <b>  Mobile view for Desktop  </p> </b>
+
+<p align="center">
+  <img width="800" height="400" src="https://www.meghshyam.com/photos/coming_mobile.png">
+</p> 
+
 
 > Language Used: 
 
