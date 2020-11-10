@@ -3,11 +3,9 @@
 
 
 
-> Can navigate to your website easily
+> Most Elegant Landing Template 
 
-> This app can let your web users to track your web social page easily 
-
-> This extenstion require activeTab permistion 
+> Resposive and mobile ready 
 
 
 - This app going to allow the users of websites to easily navigate to the website
